@@ -1,0 +1,11 @@
+{
+    "name": "meancompany",
+    "description": "Learn to build a web application with the MEAN stack",
+    "version": "0.0.0",
+    "url": "https://github.com/echeadle/meancompany",
+    "options": {
+        "paths": ".",
+        "outdir": "yuidocs/backend",
+        "exclude": "node_modules,public,src"
+    }
+}
